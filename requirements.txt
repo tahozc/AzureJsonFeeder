@@ -1,0 +1,6 @@
+sqlalchemy==1.4.22
+pyodbc==4.0.30
+python-dotenv==0.19.0
+pytest==6.2.4
+
+and a lot of time
